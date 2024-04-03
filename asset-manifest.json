@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/demoCom/static/css/main.05300396.css",
+    "main.js": "/demoCom/static/js/main.bef322d4.js",
+    "static/js/453.66f6dc6c.chunk.js": "/demoCom/static/js/453.66f6dc6c.chunk.js",
+    "static/media/logo.svg": "/demoCom/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/demoCom/index.html",
+    "main.05300396.css.map": "/demoCom/static/css/main.05300396.css.map",
+    "main.bef322d4.js.map": "/demoCom/static/js/main.bef322d4.js.map",
+    "453.66f6dc6c.chunk.js.map": "/demoCom/static/js/453.66f6dc6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05300396.css",
+    "static/js/main.bef322d4.js"
+  ]
+}
